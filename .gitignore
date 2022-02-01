@@ -1,0 +1,6 @@
+
+.terraform
+terraform.*.backup
+*.tfstate
+*.terraform.lock.hcl
+eys-demo.pem
